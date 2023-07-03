@@ -15,6 +15,9 @@ public class N3Exercici3 {
 				i++;
 			}
 		}
+		else {
+			return false;
+		}
 
 		return true;
 
